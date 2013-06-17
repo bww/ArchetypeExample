@@ -1,0 +1,13 @@
+{
+  "name": "Example Archetype Project",
+  "parameters": [
+    {
+      "id": "SHORT_NAME",
+      "name": "Project short name (e.g., 'my_project')"
+    },
+    {
+      "id": "FULL_NAME",
+      "name": "Project full name (e.g., 'My Project')"
+    }
+  ]
+}
