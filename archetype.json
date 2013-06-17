@@ -8,6 +8,14 @@
     {
       "id": "FULL_NAME",
       "name": "Project full name (e.g., 'My Project')"
+    },
+    {
+      "id": "DB_USERNAME",
+      "name": "Database username"
+    },
+    {
+      "id": "DB_PASSWORD",
+      "name": "Database password (will be shown)"
     }
   ]
 }
