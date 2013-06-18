@@ -15,7 +15,8 @@
     },
     {
       "id": "DB_PASSWORD",
-      "name": "Database password (will be shown)"
+      "name": "Database password",
+      "secure": true
     }
   ]
 }
