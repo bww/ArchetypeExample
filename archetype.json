@@ -18,5 +18,10 @@
       "name": "Database password",
       "secure": true
     }
+  ],
+  "filter-file-types": [
+    {
+      "extensions": [ "conf" ]
+    }
   ]
 }
